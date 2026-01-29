@@ -1,4 +1,4 @@
-### <div align="center">Xin chào, mình là Thương — sinh viên Software Engineering.</div>  
+### <div align="center">Xin chào, mình là Thương — sinh viên SE đầy nhiệt quyết.</div>  
   
 
 - ### 💫 Về mình  

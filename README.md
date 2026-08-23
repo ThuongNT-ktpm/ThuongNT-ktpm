@@ -1,10 +1,10 @@
 <h1>Hi there, I am Nguyen Tien Thuong 👋</h1>
 
 <ul>
-  <li>Software Engineering student</li>
-  <li>Focusing on Java Back-End & Spring Boot</li>
-  <li>Building RESTful APIs and modern web applications</li>
-  <li>Creating creative & romantic websites ❤️</li>
+  <li>💻 I make websites.</li>
+  <li>❤️ Mostly websites about love, flirting, and random romantic stuff.</li>
+  <li>🤡 Sometimes useful. Sometimes absolutely useless.</li>
+  <li>🚀 If it can be coded, I probably can turn it into a love story.</li>
 </ul>
 
 <h2>Tech Stack</h2>
